@@ -1,6 +1,6 @@
 官方说明：https://docs.netdata.cloud/zh/backends/
 
-![image](https://cloud.githubusercontent.com/assets/2662304/20649711/29f182ba-b4ce-11e6-97c8-ab2c0ab59833.png)
+![image.png](1.png)
 
 ## 安装
 ### installer_for_linux.sh（Linux平台通用）
@@ -30,44 +30,44 @@ docker run -d --name=netdata \
 浏览器输入：http://ip-address:19999
 
 ### 总览
-![image.png](https://img.hacpai.com/file/2019/09/image-59110abf.png)
+![image.png](2.png)
 
 ### CPU
-![image.png](https://img.hacpai.com/file/2019/09/image-ecf958c2.png)
+![image.png](3.png)
 
 ### 内存
-![image.png](https://img.hacpai.com/file/2019/09/image-89f41a8a.png)
+![image.png](4.png)
 
 ### Disk
-![image.png](https://img.hacpai.com/file/2019/09/image-60ebcc6e.png)
+![image.png](5.png)
 
 ### Network
-![image.png](https://img.hacpai.com/file/2019/09/image-92df21fe.png)
+![image.png](6.png)
 
-![image.png](https://img.hacpai.com/file/2019/09/image-76767333.png)
+![image.png](7.png)
 
 
 ### 用户活动
-![image.png](https://img.hacpai.com/file/2019/09/image-d8841496.png)
+![image.png](8.png)
 
 
 ## 添加多个监控节点
 点击nodes，之后用github账号登录，成功过后可以将改节点添加你的账户下并自动跳转到所有节点页面
 
-![image.png](https://img.hacpai.com/file/2019/09/image-d95d3000.png)
+![image.png](9.png)
 
-![image.png](https://img.hacpai.com/file/2019/09/image-fae07661.png)
+![image.png](10.png)
 
 点击其中一个节点方块，右边会自动显示该节点的一些信息
 
-![image.png](https://img.hacpai.com/file/2019/09/image-73cd2266.png)
+![image.png](11.png)
 
 主界面点击任意节点名即可切换至该节点
 
-![image.png](https://img.hacpai.com/file/2019/09/image-9cf381a1.png)
+![image.png](12.png)
 
 点击三角箭头即可查看真实IP地址和端口号
 
-![image.png](https://img.hacpai.com/file/2019/09/image-d97be197.png)
+![image.png](13.png)
 
 
